@@ -1,9 +1,6 @@
 My name is Sandeep. I am studying 1st class. I am a naughty boy.
-<<<<<<< HEAD
 I Love India. 
 I have a sister.
 This is my project.
 I am in hyderabad
-=======
-I Love India.
->>>>>>> 31c05d3fe67a9ed79838e2dc5d90d625c8704999
+
